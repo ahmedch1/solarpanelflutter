@@ -1,3 +1,8 @@
+Tutorials :
+https://www.youtube.com/watch?v=GNoeaJrBdA8
+
+Reached 27:18
+
 # growatt
 
 A new Flutter project.
